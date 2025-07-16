@@ -1,5 +1,5 @@
 
-# 🍴 Recipe Viewer
+#  Recipe Viewer
 
 A modern full-stack recipe browsing app built with **Next.js**, **Tailwind CSS**, **MongoDB**, and **NextAuth.js**.  
 Users can browse meals from **TheMealDB**, view detailed recipes, and save favorites with Google authentication.
