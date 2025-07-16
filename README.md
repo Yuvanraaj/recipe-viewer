@@ -6,19 +6,19 @@ Users can browse meals from **TheMealDB**, view detailed recipes, and save favor
 
 ---
 
-## 🌟 Features
+##  Features
 
-- 🍲 Browse recipes from TheMealDB API
-- 🔍 Search and filter meals
-- 🎲 "Surprise Me" button to view a random recipe
-- ❤️ Save favorite recipes to MongoDB
-- 🔐 Google Login (NextAuth)
-- 🖥️ Fully responsive, animated UI with Tailwind CSS
-- 🌙 Dark-themed, polished layout
+-  Browse recipes from TheMealDB API
+-  Search and filter meals
+-  "Surprise Me" button to view a random recipe
+-  Save favorite recipes to MongoDB
+-  Google Login (NextAuth)
+-  Fully responsive, animated UI with Tailwind CSS
+-  Dark-themed, polished layout
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img width="1883" height="846" alt="Screenshot 2025-07-16 215319" src="https://github.com/user-attachments/assets/ef5e87e9-f52c-4d6d-8736-7d8fdc642d17" />
 <img width="1885" height="842" alt="Screenshot 2025-07-16 215337" src="https://github.com/user-attachments/assets/b31bd90b-d8aa-4c40-b95b-21f39cf19634" />
@@ -30,7 +30,7 @@ Users can browse meals from **TheMealDB**, view detailed recipes, and save favor
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: Next.js 14, React, Tailwind CSS
 - **Backend**: Next.js API Routes, MongoDB Atlas
@@ -39,7 +39,7 @@ Users can browse meals from **TheMealDB**, view detailed recipes, and save favor
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 
@@ -73,32 +73,22 @@ Visit `http://localhost:3000`
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-> 🚧 Deployed link
+>  Deployed link
 
 [https://recipe-viewer-git-main-yuvanraaj-cs-projects.vercel.app](https://recipe-viewer-git-main-yuvanraaj-cs-projects.vercel.app)
 
----
 
-## 🧠 Evaluation-Ready
 
-✅ Core Features
-✅ Auth + Favorites in DB
-✅ Modern UI/UX
-✅ Ready for Vercel deployment
-✅ Bonus features like search, randomizer, and protected pages
-
----
-
-## 👤 Author
+##  Author
 
 **Yuvanraaj C**
 [GitHub](https://github.com/Yuvanraaj)
 
 ---
 
-## 📄 License
+##  License
 
 MIT
 
